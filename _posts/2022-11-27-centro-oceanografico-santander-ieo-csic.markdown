@@ -8,7 +8,7 @@ description: Centro Nacional de Instituto Espa&ntilde;ol de Oceanograf&iacute;a,
 img: posts/20210210/IEO-Santander.jpg
 tags: [IEO, COST]
 author: Jes&uacute;s Carranza
-github: amaynez/IEOSantander/
+github: jcarranza71/IEOSantander/
 ---
 
 <p style="text-align=justify;">Durante el último tercio del siglo XIX, un científico montañés, el profesor Augusto González de Linares, funda en Santander la primera Estación de Biología Marina de España en el año 1886. Esta pionera Estación se sumaba a las pocas existentes hasta aquella fecha localizadas en: Concarneau y Roskoff (Francia, 1872), Pennikese (EE UU, 1873), y Nápoles (Italia, 1874).</p>
